@@ -24,7 +24,6 @@ Installiere die benötigten Pakete über `pip`:
 pip install captcha
 
 
-
 ### Hinweise:
 - **Dateinamen**: Ändere `captcha_verification.py` auf den tatsächlichen Namen deines Skripts.
 - **Lizenz**: Falls du eine spezifische Lizenz verwendest, erstelle eine `LICENSE`-Datei und verweise darauf in der README.
